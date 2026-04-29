@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/CentiiBit",
   },
   aboutMe:
-    "I am a Computer Science graduate from the Immaculate Conception I-College of Arts and Technology. Throughout my academic career, I developed a strong foundation in C#, which I have expanded into the blockchain space. I developed a Decentralized Lottery prototype modeled after the PCSO 6/58 Ultra Lotto—which I presented at the ICBEST 2025 conference Additionally, I built a Blockchain-Based Procurement System using Vue.js and Solidity, focusing on transparent and immutable record-keeping. My experience also includes a 250-hour internship at Microclever Enterprises Inc., where I served as a Network Administrator and IT Support Intern.",
+    "I am a Computer Science graduate from the Immaculate Conception I-College of Arts and Technology. Throughout my academic career, I developed a strong foundation in C#, which I have expanded into the blockchain space. I developed a Decentralized Lottery prototype modeled after the PCSO 6/58 Ultra Lotto—which I presented at the ICBEST 2025 conference Additionally, I built a Blockchain-Based Procurement System using Vue.js and Solidity, focusing on transparent and immutable record-keeping. My experience also includes a 250-hour internship at Microclever Enterprises Inc., where I served as an IT Support Intern.",
   skills: ["C#", "React.js", "Node.js", "Vue.js", "Blockchain"],
   projects: [
     {

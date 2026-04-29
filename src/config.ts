@@ -32,7 +32,7 @@ export const siteConfig = {
   experience: [
     {
       company: "Microclever Enterprise Inc.",
-      title: "Network Administrator & IT Support Intern",
+      title: "IT Support Intern",
       dateRange: "May 2025 - July 2025",
       description:
         "Completed a 250-hour practicum focused on network maintenance and providing technical IT support in a professional workplace environment.",
